@@ -1,1 +1,1 @@
-# distsys-zada-e
+# Zadaće iz kolegija Raspodijeljeni sustavi 
